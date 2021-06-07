@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       data
-      <Pagination data={200} list={20} />
+      <Pagination data={20} />
     </div>
   );
 }
